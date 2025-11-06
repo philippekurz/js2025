@@ -7,3 +7,5 @@ let bonjour = 'Hello';
 let tout_le_monde = ' World!';
 let salutation = bonjour + tout_le_monde;
 console.log(salutation);
+
+
