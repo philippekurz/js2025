@@ -4,8 +4,8 @@ let c = a + b;
 console.log(c);
 
 let bonjour = 'Hello';
-let tout_le_monde = ' World!';
-let salutation = bonjour + tout_le_monde;
+let toutLeMonde = ' World!';
+let salutation = bonjour + toutLeMonde;
 console.log(salutation);
 
 
